@@ -1,0 +1,630 @@
+[
+   {
+      "pizza":[{
+            "foto": "../assets/icone-pizza.jpg",
+            "nome":"Calabresa",
+            "precos":[
+               {
+                  "p":40,
+                  "fatias": "4 fatias"
+               },
+               {
+                  "m":50,
+                  "fatias": "6 fatias"
+               },
+               {
+                  "g":60,
+                  "fatias": "8 fatias"
+               },
+               {
+                  "gg":70,
+                  "fatias": "12 fatias"
+               }
+            ],
+            "ingredientes":[
+               "molho",
+               "orégano",
+               "mussarela",
+               "tomate",
+               "presunto",
+               "milho",
+               "calabresa"
+            ]
+         },
+         {
+            "nome":"A Preferida",
+            "precos":[
+               {
+                  "p":40,
+                  "fatias": "4 fatias"
+               },
+               {
+                  "m":50,
+                  "fatias": "6 fatias"
+               },
+               {
+                  "g":60,
+                  "fatias": "8 fatias"
+               },
+               {
+                  "gg":70,
+                  "fatias": "12 fatias"
+               }
+            ],
+            "ingredientes":[
+               "molho",
+               "orégano",
+               "mussarela",
+               "tomate",
+               "presunto",
+               "milho",
+               "pimentão",
+               "cebola",
+               "lombinho",
+               "calabresa",
+               "bacon",
+               "azeitona"
+            ]
+         },
+         {
+            "nome":"Mista total",
+            "precos":[
+               {
+                  "p":40,
+                  "fatias": "4 fatias"
+               },
+               {
+                  "m":50,
+                  "fatias": "6 fatias"
+               },
+               {
+                  "g":60,
+                  "fatias": "8 fatias"
+               },
+               {
+                  "gg":70,
+                  "fatias": "12 fatias"
+               }
+            ],
+            "ingredientes":[
+               "molho",
+               "orégano",
+               "mussarela",
+               "tomate",
+               "presunto",
+               "milho",
+               "cebola",
+               "frango",
+               "lombinho",
+               "bacon",
+               "calabresa",
+               "palmito",
+               "azeitona"
+            ]
+         },
+         {
+            "nome":"Frango",
+            "precos":[
+               {
+                  "p":40,
+                  "fatias": "4 fatias"
+               },
+               {
+                  "m":50,
+                  "fatias": "6 fatias"
+               },
+               {
+                  "g":60,
+                  "fatias": "8 fatias"
+               },
+               {
+                  "gg":70,
+                  "fatias": "12 fatias"
+               }
+            ],
+            "ingredientes":[
+               "molho",
+               "orégano",
+               "mussarela",
+               "tomate",
+               "presunto",
+               "milho",
+               "frango",
+               "catupiry"
+            ]
+         },
+         {
+            "nome":"Lombinho",
+            "precos":[
+               {
+                  "p":40,
+                  "fatias": "4 fatias"
+               },
+               {
+                  "m":50,
+                  "fatias": "6 fatias"
+               },
+               {
+                  "g":60,
+                  "fatias": "8 fatias"
+               },
+               {
+                  "gg":70,
+                  "fatias": "12 fatias"
+               }
+            ],
+            "ingredientes":[
+               "molho",
+               "orégano",
+               "mussarela",
+               "tomate",
+               "presunto",
+               "milho",
+               "lombinho"
+            ]
+         },
+         {
+            "nome":"Bacon",
+            "precos":[
+               {
+                  "p":40,
+                  "fatias": "4 fatias"
+               },
+               {
+                  "m":50,
+                  "fatias": "6 fatias"
+               },
+               {
+                  "g":60,
+                  "fatias": "8 fatias"
+               },
+               {
+                  "gg":70,
+                  "fatias": "12 fatias"
+               }
+            ],
+            "ingredientes":[
+               "molho",
+               "orégano",
+               "mussarela",
+               "tomate",
+               "presunto",
+               "milho",
+               "bacon"
+            ]
+         },
+         {
+            "nome":"Atum",
+            "precos":[
+               {
+                  "p":40,
+                  "fatias": "4 fatias"
+               },
+               {
+                  "m":50,
+                  "fatias": "6 fatias"
+               },
+               {
+                  "g":60,
+                  "fatias": "8 fatias"
+               },
+               {
+                  "gg":70,
+                  "fatias": "12 fatias"
+               }
+            ],
+            "ingredientes":[
+               "molho",
+               "orégano",
+               "mussarela",
+               "tomate",
+               "presunto",
+               "milho",
+               "atum"
+            ]
+         },
+         {
+            "nome":"Palmito",
+            "precos":[
+               {
+                  "p":40,
+                  "fatias": "4 fatias"
+               },
+               {
+                  "m":50,
+                  "fatias": "6 fatias"
+               },
+               {
+                  "g":60,
+                  "fatias": "8 fatias"
+               },
+               {
+                  "gg":70,
+                  "fatias": "12 fatias"
+               }
+            ],
+            "ingredientes":[
+               "molho",
+               "orégano",
+               "mussarela",
+               "tomate",
+               "presunto",
+               "milho",
+               "palmito"
+            ]
+         },
+         {
+            "nome":"Milho",
+            "precos":[
+               {
+                  "p":40,
+                  "fatias": "4 fatias"
+               },
+               {
+                  "m":50,
+                  "fatias": "6 fatias"
+               },
+               {
+                  "g":60,
+                  "fatias": "8 fatias"
+               },
+               {
+                  "gg":70,
+                  "fatias": "12 fatias"
+               }
+            ],
+            "ingredientes":[
+               "molho",
+               "orégano",
+               "mussarela",
+               "tomate",
+               "presunto",
+               "milho"
+            ]
+         },
+         {
+            "nome":"Portuguesa",
+            "precos":[
+               {
+                  "p":40,
+                  "fatias": "4 fatias"
+               },
+               {
+                  "m":50,
+                  "fatias": "6 fatias"
+               },
+               {
+                  "g":60,
+                  "fatias": "8 fatias"
+               },
+               {
+                  "gg":70,
+                  "fatias": "12 fatias"
+               }
+            ],
+            "ingredientes":[
+               "molho",
+               "orégano",
+               "mussarela",
+               "tomate",
+               "presunto",
+               "cebola",
+               "ovo",
+               "azeitona"
+            ]
+         },
+         {
+            "nome":"Napolitana",
+            "precos":[
+               {
+                  "p":40,
+                  "fatias": "4 fatias"
+               },
+               {
+                  "m":50,
+                  "fatias": "6 fatias"
+               },
+               {
+                  "g":60,
+                  "fatias": "8 fatias"
+               },
+               {
+                  "gg":70,
+                  "fatias": "12 fatias"
+               }
+            ],
+            "ingredientes":[
+               "molho",
+               "orégano",
+               "mussarela",
+               "tomate",
+               "presunto",
+               "azeitona"
+            ]
+         },
+         {
+            "nome":"Franbacon",
+            "precos":[
+               {
+                  "p":40,
+                  "fatias": "4 fatias"
+               },
+               {
+                  "m":50,
+                  "fatias": "6 fatias"
+               },
+               {
+                  "g":60,
+                  "fatias": "8 fatias"
+               },
+               {
+                  "gg":70,
+                  "fatias": "12 fatias"
+               }
+            ],
+            "ingredientes":[
+               "molho",
+               "orégano",
+               "mussarela",
+               "tomate",
+               "presunto",
+               "milho",
+               "frango",
+               "bacon",
+               "catupiry"
+            ]
+         },
+         {
+            "nome":"Vegetariana",
+            "precos":[
+               {
+                  "p":40,
+                  "fatias": "4 fatias"
+               },
+               {
+                  "m":50,
+                  "fatias": "6 fatias"
+               },
+               {
+                  "g":60,
+                  "fatias": "8 fatias"
+               },
+               {
+                  "gg":70,
+                  "fatias": "12 fatias"
+               }
+            ],
+            "ingredientes":[
+               "molho",
+               "orégano",
+               "mussarela",
+               "tomate",
+               "milho",
+               "palmito",
+               "catupiry",
+               "azeitona"
+            ]
+         },
+         {
+            "nome":"Três Queijos",
+            "precos":[
+               {
+                  "p":40,
+                  "fatias": "4 fatias"
+               },
+               {
+                  "m":50,
+                  "fatias": "6 fatias"
+               },
+               {
+                  "g":60,
+                  "fatias": "8 fatias"
+               },
+               {
+                  "gg":70,
+                  "fatias": "12 fatias"
+               }
+            ],
+            "ingredientes":[
+               "molho",
+               "orégano",
+               "mussarela",
+               "tomate",
+               "milho",
+               "provolone",
+               "catupiry"
+            ]
+         },
+         {
+            "nome":"Quatro Queijos",
+            "precos":[
+               {
+                  "p":40,
+                  "fatias": "4 fatias"
+               },
+               {
+                  "m":50,
+                  "fatias": "6 fatias"
+               },
+               {
+                  "g":60,
+                  "fatias": "8 fatias"
+               },
+               {
+                  "gg":70,
+                  "fatias": "12 fatias"
+               }
+            ],
+            "ingredientes":[
+               "molho",
+               "orégano",
+               "mussarela",
+               "tomate",
+               "milho",
+               "provolone",
+               "catupiry",
+               "cheddar"
+            ]
+         },
+         {
+            "nome":"Marguerita",
+            "precos":[
+               {
+                  "p":40,
+                  "fatias": "4 fatias"
+               },
+               {
+                  "m":50,
+                  "fatias": "6 fatias"
+               },
+               {
+                  "g":60,
+                  "fatias": "8 fatias"
+               },
+               {
+                  "gg":70,
+                  "fatias": "12 fatias"
+               }
+            ],
+            "ingredientes":[
+               "Molho",
+               "orégano",
+               "mussarela",
+               "milho",
+               "tomate",
+               "manjericão"
+            ]
+         },{
+            "nome":"brigadeiro",
+            "precos":[
+               {
+                  "p":40,
+                  "fatias": "4 fatias"
+               },
+               {
+                  "m":50,
+                  "fatias": "6 fatias"
+               },
+               {
+                  "g":60,
+                  "fatias": "8 fatias"
+               },
+               {
+                  "gg":70,
+                  "fatias": "12 fatias"
+               }
+            ],
+            "ingredientes":[
+               "brigadeiro granulado"
+            ]
+         },
+         {
+            "nome":"chocolate",
+            "precos":[
+               {
+                  "p":40,
+                  "fatias": "4 fatias"
+               },
+               {
+                  "m":50,
+                  "fatias": "6 fatias"
+               },
+               {
+                  "g":60,
+                  "fatias": "8 fatias"
+               },
+               {
+                  "gg":70,
+                  "fatias": "12 fatias"
+               }
+            ],
+            "ingredientes":[
+               "chocolate"
+            ]
+         },
+         {
+            "nome":"banana",
+            "precos":[
+               {
+                  "p":40,
+                  "fatias": "4 fatias"
+               },
+               {
+                  "m":50,
+                  "fatias": "6 fatias"
+               },
+               {
+                  "g":60,
+                  "fatias": "8 fatias"
+               },
+               {
+                  "gg":70,
+                  "fatias": "12 fatias"
+               }
+            ],
+            "ingredientes":[
+               "mussarela",
+               "banana",
+               "leite condensado",
+               "canela"
+            ]
+         }
+      ],      
+      "borda":[
+         {
+            "recheios":[
+               {
+                  "sabor":"tradicional", 
+                  "preco":0
+               },
+               {
+                  "sabor":"catupiry",
+                  "preco":5
+               },
+               {
+                  "sabor":"cheddar",
+                  "preco":5
+               },
+               {
+                  "sabor":"quatro queijos",
+                  "preco":5
+               },
+               {
+                  "sabor":"chocolate",
+                  "preco":5
+               }
+            ]
+         }
+      ],
+         "bebidas":[
+            {
+               "sabores":[  
+                  {
+                     "preco":10,
+                     "sabor":"coca-cola 2L"
+                  },
+                  {
+                     "preco":10,
+                     "sabor":"guaraná antarctica 2L"
+                  },
+                  {
+                     "preco":10,
+                    "sabor":"fanta laranja 2L"
+                  },
+                  {
+                     "preco":10,
+                     "sabor":"coca-cola zero 2L"
+                  },
+                  {
+                     "preco":8,
+                     "sabor":"Del Valle Uva 1L"
+                  },
+                  {
+                     "preco":8,
+                     "sabor":"Del Valle Pêssego 1L"
+                  }
+               ]
+            }
+         ]
+      }
+   ]
